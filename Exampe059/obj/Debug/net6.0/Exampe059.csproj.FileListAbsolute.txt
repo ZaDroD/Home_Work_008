@@ -1,0 +1,15 @@
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.csproj.AssemblyReference.cache
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.AssemblyInfoInputs.cache
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.AssemblyInfo.cs
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.csproj.CoreCompileInputs.cache
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\Exampe059.exe
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\Exampe059.deps.json
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\Exampe059.runtimeconfig.json
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\Exampe059.dll
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\ref\Exampe059.dll
+C:\Users\ZaroD\Desktop\HW008\Exampe059\bin\Debug\net6.0\Exampe059.pdb
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.dll
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\ref\Exampe059.dll
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.pdb
+C:\Users\ZaroD\Desktop\HW008\Exampe059\obj\Debug\net6.0\Exampe059.genruntimeconfig.cache
